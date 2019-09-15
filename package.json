@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-wingsui-rules",
+  "version": "0.0.1",
+  "description": "A repository to host all the custom lint rules for wingsui repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wings-software/wingsui-eslint-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "wingsui"
+  ],
+  "author": "Manish Kr. Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wings-software/wingsui-eslint-rules/issues"
+  },
+  "homepage": "https://github.com/wings-software/wingsui-eslint-rules#readme",
+  "devDependencies": {
+    "lodash.get": "^4.4.2"
+  }
+}
