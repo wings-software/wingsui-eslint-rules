@@ -1,5 +1,5 @@
 /**
- * @fileoverview Error out statements where await is used before setState
+ * @fileoverview Error out usage of componentWillMount
  * @author Manish Kr. Shukla
  */
 'use strict'

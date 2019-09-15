@@ -21,7 +21,7 @@
     "url": "https://github.com/wings-software/wingsui-eslint-rules/issues"
   },
   "homepage": "https://github.com/wings-software/wingsui-eslint-rules#readme",
-  "dependencies": {
+  "devDependencies": {
     "lodash.get": "^4.4.2"
   }
 }
